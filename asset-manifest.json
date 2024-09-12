@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gamersuperscore/static/css/main.6f5d80aa.css",
+    "main.js": "/gamersuperscore/static/js/main.da764ca7.js",
+    "static/js/453.a6a97343.chunk.js": "/gamersuperscore/static/js/453.a6a97343.chunk.js",
+    "index.html": "/gamersuperscore/index.html",
+    "main.6f5d80aa.css.map": "/gamersuperscore/static/css/main.6f5d80aa.css.map",
+    "main.da764ca7.js.map": "/gamersuperscore/static/js/main.da764ca7.js.map",
+    "453.a6a97343.chunk.js.map": "/gamersuperscore/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f5d80aa.css",
+    "static/js/main.da764ca7.js"
+  ]
+}
